@@ -1,0 +1,16 @@
+.thead {
+  background-color: rgb(86, 174, 233);
+}
+
+.table {
+  width: 450px;
+  border: 1px solid black;
+}
+.tr {
+  border: 1px solid black#ccc;
+}
+.td,
+.th {
+  padding: 15px;
+  border: 1px solid black;
+}
